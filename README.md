@@ -16,7 +16,7 @@ Este repositorio contiene varios estudios de caso enfocados en modelos de **clas
         - **Naive Bayes (NB):** Muy efectivo y rápido, con un acierto del **59%**.
         - **Regresión Logística (GLM Binomial) / LDA:** Ambos resultaron en una precisión del **56%**.
         - **K-Nearest Neighbors (KNN):** El menos efectivo, con una tasa máxima de **53%** (Con K=3).
-    - **Archivos:** [`The_Stock_Market_Binomial_.ipynb`](./The_Stock_Market_Binomial_.ipynb), [`LDA_SMARKET.ipynb`], [`QDA_SMARKETipynb.ipynb`], [`NB_SMARKET.ipynb`], [`K_Nearste_Neighbors_SMARKET.ipynb`]
+    - **Archivos:** [`The_Stock_Market_Binomial_.ipynb`](./The_Stock_Market_Binomial_.ipynb), [`LDA_SMARKET.ipynb`](./LDA_SMARKET.ipynb), [`QDA_SMARKETipynb.ipynb`](./QDA_SMARKETipynb.ipynb), [`NB_SMARKET.ipynb`](./NB_SMARKET.ipynb), [`K_Nearste_Neighbors_SMARKET.ipynb`](./K_Nearste_Neighbors_SMARKET.ipynb)
 
 ***
 
